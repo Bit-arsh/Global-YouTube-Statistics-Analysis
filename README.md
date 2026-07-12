@@ -49,3 +49,24 @@ The goal is to discover insights about YouTube creators, subscribers, earnings a
 -Views
 -Indexes
 -Stored Procedures
+
+## Power BI Dashboard
+The interactive dashboard includes:
+- KPI Cards
+- Top 10 Channels by Subscribers
+- Top 10 Channels by Video Views
+- Top Countries by Subscribers
+- Top Categories by Subscribers
+- Subscriber Distribution by Category
+- Uploads vs Subscribers Scatter Plot
+ 
+![Power BI Dashboard](screenshots/dashboard.png)
+ 
+  ## Key Insights
+- T-Series has the highest subscriber count.
+- Entertainment and Music dominate total subscribers.
+- The United States and India contribute the largest subscriber base.
+- Higher upload counts do not necessarily lead to more subscribers.
+- Video views and subscriber rankings differ across channels.
+  
+

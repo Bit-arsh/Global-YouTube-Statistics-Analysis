@@ -60,7 +60,7 @@ The interactive dashboard includes:
 - Subscriber Distribution by Category
 - Uploads vs Subscribers Scatter Plot
  
-![Power BI Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
  
   ## Key Insights
 - T-Series has the highest subscriber count.
